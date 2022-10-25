@@ -1,0 +1,10 @@
+Notes :
+1- The project is written in the form of Python files (python.py) and for ease of operation from the terminal, a jupyter note file is attached to run train and testing.
+2- At the beginning of my work on the project, I wrote a complete code from scratching, but during my research I found some helpful resources and built on them, which are the ones in your hands and I did not attach my files to avoid confusion.
+3- The results that I sent to you are not final due to my limited resources (free time limited online machines) and definitely if I had more resources, it would have been complete and better than that.
+4- I tried many models and did tuning to reach the best result, also with what I had from the resources.
+5- Attached files are as follows:
+	- csv file involves image name, stresses present and the severity , for two models (my free limited time online machines fineshed)
+	- jupyter-note-book to run train and testing and contain some analysis on the data.
+	- internet link contain the full code files : 
+				https://drive.google.com/drive/folders/1RE0HSQYr5-QBvp_qV5406SvKuBsXuoD4?usp=sharing 

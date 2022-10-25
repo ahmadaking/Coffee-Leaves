@@ -1,0 +1,32 @@
+imp links
+
+
+
+-> pytorch vision models
+https://github.com/pytorch/vision/tree/main/torchvision/models
+
+-> tensorflow / models
+https://github.com/tensorflow/models
+
+-> resnet impelemntation
+https://gist.github.com/nikogamulin/7774e0e3988305a78fd73e1c4364aded
+
+-> Imbalanced Dataset Sampler
+https://github.com/ufoym/imbalanced-dataset-sampler
+
+-> How to apply MLOps to Computer Vision? Introducing CVOps
+https://www.picsellia.com/post/how-to-apply-mlops-to-computer-vision-cvops?utm_source=Hacker+News&utm_medium=Blog&utm_campaign=blog_CVOps
+
+-> Between-class Learning for Image Classification
+https://arxiv.org/pdf/1711.10284.pdf
+
+-> Data Augmentation | How to use Deep Learning 
+https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-have-limited-data-part-2/
+
+
+-> An Overview of Multi-Task Learning in Deep Neural Networks
+https://ruder.io/multi-task/
+
+
+-> Modern Data Augmentation Techniques for Computer Vision
+https://wandb.ai/authors/tfaugmentation/reports/Modern-Data-Augmentation-Techniques-for-Computer-Vision--VmlldzoxNzU3NTU
