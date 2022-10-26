@@ -14,11 +14,11 @@ The dataset contains the following stresses:
 The images were labeled in relation to the predominant biotic stress of each leaf and its severity.
 
 Severity is mapped in the csv file as follows:
-	\1- Healthy : 0
- 	\2- Very low : 1
- 	\3- Low : 2
- 	\4- High : 3
- 	\5- Very high : 4
+	<br/>1- Healthy : 0
+ 	2- Very low : 1
+ 	3- Low : 2
+ 	4- High : 3
+ 	5- Very high : 4
 
 
 Your task is to train a model that is capable of identifying:
