@@ -6,25 +6,25 @@ In this project, I have built an deep learning models for classification health 
 To give context the data represents a total of 1747 images of coffee entire leaves, including healthy leaves and diseased leaves, affected by one or more types of biotic stresses.
 
 The dataset contains the following stresses:
-  -> leaf miner,
-  -> rust,
-  -> brown leaf spot and 
-  -> cercospora leaf spot. 
+  <br/> -> leaf miner,
+  <br/> -> rust,
+  <br/> -> brown leaf spot and 
+  <br/> -> cercospora leaf spot. 
 
 The images were labeled in relation to the predominant biotic stress of each leaf and its severity.
 
 Severity is mapped in the csv file as follows:
-	<br/>1- Healthy : 0
- 	2- Very low : 1
- 	3- Low : 2
- 	4- High : 3
- 	5- Very high : 4
+	<br/> 1- Healthy : 0
+ 	<br/> 2- Very low : 1
+ 	<br/> 3- Low : 2
+ 	<br/> 4- High : 3
+ 	<br/> 5- Very high : 4
 
 
 Your task is to train a model that is capable of identifying:
-	1- The stresses present
-	2- The severity of the predominant stress
+	<br/> 1- The stresses present
+	<br/> 2- The severity of the predominant stress
 	
 We are expecting you to submit the following:
-	1- Your Notebook Code
-	2- csv file involves image name, stresses present and the severity
+	<br/> 1- Your Notebook Code
+	<br/> 2- csv file involves image name, stresses present and the severity
