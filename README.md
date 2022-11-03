@@ -41,15 +41,15 @@ We are expecting you to submit the following:
 	  alt="to edit"
 	  title="RESNET50_dis"
 	  style="display: inline-block; margin: 0 auto; "
-	  width=300px
-	  height=300px
+	  width=325px
+	  height=325px
 	><img
 	  src="https://github.com/ahmadaking/Coffee-Leaves/blob/master/results/leaf_multitask/default_sev.png"
 	  alt="to edit"
 	  title="RESNET50_sev"
 	  style="display: inline-block; margin: 0 auto; "
-	  width=300px
-	  height=300px
+	  width=325px
+	  height=325px
 	>
 * Using [GOOGLENET](https://pytorch.org/hub/pytorch_vision_googlenet/) with defualt setting (*t01_fold1_adm*)
 
@@ -58,14 +58,14 @@ We are expecting you to submit the following:
 	  alt="to edit"
 	  title="standard_dis"
 	  style="display: inline-block; margin: 0 auto; "
-	  width=300px
-	  height=300px
+	  width=325px
+	  height=325px
 	><img
 	  src="https://github.com/ahmadaking/Coffee-Leaves/blob/master/results/leaf_multitask/googlenet_t01_fold1_adm_standard_sev.png"
 	  alt="to edit"
 	  title="standard_sev"
 	  style="display: inline-block; margin: 0 auto; "
-	  width=300px
-	  height=300px
+	  width=325px
+	  height=325px
 	>
 
