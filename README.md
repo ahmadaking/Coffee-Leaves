@@ -37,14 +37,14 @@ We are expecting you to submit the following:
 * Usin [RESNET50](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet50.html)
 
 <img
-	  src="https://github.com/ahmadaking/Coffee-Leaves/blob/master/results/leaf_multitask/default_dis.png"
+	  src="https://github.com/ahmadaking/Coffee-Leaves/blob/master/results/leaf_multitask/RESNET50_dis.png"
 	  alt="to edit"
 	  title="RESNET50_dis"
 	  style="display: inline-block; margin: 0 auto; "
 	  width=325px
 	  height=325px
 	><img
-	  src="https://github.com/ahmadaking/Coffee-Leaves/blob/master/results/leaf_multitask/default_sev.png"
+	  src="https://github.com/ahmadaking/Coffee-Leaves/blob/master/results/leaf_multitask/RESNET50_sev.png"
 	  alt="to edit"
 	  title="RESNET50_sev"
 	  style="display: inline-block; margin: 0 auto; "
