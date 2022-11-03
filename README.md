@@ -1,6 +1,6 @@
 ## About
 This step is about analyzing the dataset & using machine learning skills to solve real world problems.
-<br/>In this project, I have built an deep learning models for classification health and severity estimation of coffee leaf biotic stress using Pytorch. The models has been trained on over 1740 images.
+<br/>In this project, I have built an deep learning models for multitask classification (*biotic stress and severity*)  estimation of coffee leaf biotic stress using Pytorch. The models has been trained on over 1740 images.
 
 ## Dataset
 All images collected to build the datasets used in this work are public available at the following link:
