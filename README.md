@@ -32,3 +32,7 @@ Your task is to train a model that is capable of identifying:
 We are expecting you to submit the following:
 	<br/> 1- Your Notebook Code
 	<br/> 2- csv file involves image name, stresses present and the severity
+
+# Some Results
+![alt text] (https://github.com/ahmadaking/Coffee-Leaves/blob/master/results/leaf_multitask/default_dis.png)
+![alt text] (https://github.com/ahmadaking/Coffee-Leaves/blob/master/results/leaf_multitask/default_sev.png)
